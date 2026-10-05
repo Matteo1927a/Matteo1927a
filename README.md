@@ -9,3 +9,45 @@ I enjoy learning new technologies, solving technical problems, and turning ideas
 I also have a strong personal interest in the **hardware and technology behind everyday devices**, such as computers, smartphones, and other electronic devices. I enjoy understanding how these systems work and how their hardware and software components interact.
 
 I am a **determined and motivated person**, committed to continuously improving my skills. I enjoy working both independently and as part of a team.
+
+##  Technologies & Skills
+
+### Languages
+C · JavaScript 
+
+### Web Development
+HTML · CSS · Node.js · Express
+
+### Databases
+MySQL
+
+### Tools & Technologies
+Git · Docker
+
+### Computer Science
+Software Engineering · Algorithms & Data Structures · Operating Systems · Computer Networks · Cybersecurity
+
+## Featured project
+
+###  University Teachers Timesheet Management System
+
+Web application developed as part of my Bachelor's thesis for managing and reporting university teachers' activities.
+
+**Technologies:** JavaScript · Node.js · Express · MySQL · HTML · CSS · Docker
+
+###  Gym Products E-commerce
+
+E-commerce web application developed as part of a university project for managing and selling gym and sports products.
+
+**Technologies:** JavaScript · HTML · CSS · Node.js · MySQL
+
+###  Terminal Game in C
+
+A terminal-based game developed entirely in C as part of my university studies, focusing on programming, algorithms, and data structures.
+
+**Technologies:** C
+
+##  Contact
+
+- [LinkedIn]()
+- Email: matteo.santoro12@gmail.com
